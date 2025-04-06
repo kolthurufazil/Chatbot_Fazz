@@ -1,0 +1,8 @@
+API_KEY.env
+__pycache__/
+vector_store/
+.env
+*.pyc
+*.pkl
+*.log
+

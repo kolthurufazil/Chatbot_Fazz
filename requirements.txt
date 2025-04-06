@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+python-dotenv
+google-generativeai
+sentence-transformers
+numpy==1.24.4
